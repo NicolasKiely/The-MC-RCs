@@ -1,0 +1,13 @@
+[A-Za-z]*
+.xsession*
+.steam*
+.viminfo
+.[A-Z]*
+.*_history
+*.swp
+.profile
+.lesshst
+.pulse*
+.bash_logout
+.vim/*
+.gitconfig
