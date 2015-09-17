@@ -6,6 +6,6 @@ set autoindent
 set number
 set splitright
 set splitbelow
-set lines=60
+set lines=56
 set columns=100
 autocmd FileType make setlocal noexpandtab
